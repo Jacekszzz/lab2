@@ -16,11 +16,15 @@ h1
 	{font-size: 1.6em; 
 	 font-weight: bold;
 	 color: black;
-	 background-color: #809dff;	
+	 background-color: #809dff;
+	 line-height: 2em;	
 	}
 	
 h2 
 	{font-size: 1.2em;
 	 color: black;
 	 background-color: #e6ebff;	
+	}
+p
+        {line-height:1.5em;
 	}
